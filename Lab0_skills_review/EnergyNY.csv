@@ -1,0 +1,49 @@
+BBL,BoroughNumber,BuildingName,Address,Borough,State,Postcode,Block,Lot,EnergyUse_MMBTU,Latitude,Longitude,Community.Board,CouncilDistrict,Tract,BIN,NTA
+5005420009,5,Staten Island Criminal Court,67 Targee St ,Staten Island,New York,10304,542,9,2516,40.625509,-74.083403,1,49,21,5014078,Stapleton-Rosebank                                                         
+5005230001,5,Staten Island Village Hall,111 Canal St ,Staten Island,New York,10304,523,1,932,40.626584,-74.076758,1,49,21,5013729,Stapleton-Rosebank                                                         
+5000090022,5,Staten Island Family Court,100 Richmond Ter ,Staten Island,New York,10301,9,22,1429,40.644935,-74.07723,1,49,7,5000090,West New Brighton-New Brighton-St. George                                  
+5000080070,5,Office Building,130 Stuyvesant Pl ,Staten Island,New York,10301,8,70,20745,40.642891,-74.076874,1,49,3,5000085,West New Brighton-New Brighton-St. George                                  
+5000070012,5,Staten Island Supreme Court,18 Richmond Ter ,Staten Island,New York,10301,7,12,1913,40.643004,-74.075772,1,49,3,5000064,West New Brighton-New Brighton-St. George                                  
+5000070001,5,Staten Island Borough Hall,10 Richmond Ter ,Staten Island,New York,10301,7,1,11385,40.642197,-74.075201,1,49,3,5000063,West New Brighton-New Brighton-St. George                                  
+5000060021,5,Staten Island Courthouse,26 Central Ave ,Staten Island,New York,10301,6,21,11072,40.64112,-74.076847,1,49,3,5151735,West New Brighton-New Brighton-St. George                                  
+4100930001,4,Queens Family Court,152-02 Jamaica Ave ,Queens,New York,11432,10093,1,34390,40.702455,-73.803261,12,27,240,4438731,Jamaica                                                                    
+4096910001,4,Queens Supreme Court,88-11 Sutphin Blvd ,Queens,New York,11435,9691,1,23888,40.704623,-73.809151,12,24,238,4207071,Jamaica                                                                    
+4096800001,4,Queens Civil Court,89-17 Sutphin Blvd ,Queens,New York,11435,9680,1,16928,40.703617,-73.808685,12,24,240,4448759,Jamaica                                                                    
+4096530001,4,Queens Criminal Court,125-01 Queens Blvd ,Queens,New York,11415,9653,1,37895,40.712357,-73.826292,9,29,216,4206522,Kew Gardens                                                                
+4036050001,4,Central Storehouse,66-26 Metropolitan Ave ,Queens,New York,11379,3605,1,31689,40.712372,-73.892028,5,30,61301,4443103,Ridgewood                                                                  
+4022740002,4,Queens Borough Hall,120-55 Queens Blvd ,Queens,New York,11415,2274,2,53873,40.713329,-73.828601,9,29,216,4052812,Kew Gardens                                                                
+4000830001,4,Long Island City Courthouse,25-10 Court Sq ,Queens,New York,11101,83,1,7227,40.746059,-73.943466,2,26,19,4000698,Hunters Point-Sunnyside-West Maspeth                                       
+3024670001,3,Division of Facilities Management and Construction Shops,390 Kent Ave ,Brooklyn,New York,11211,2467,1,2168,40.711246,-73.968348,1,33,549,3063635,North Side-South Side                                                      
+3012740001,3,Bedford Ave Armory,1579 Bedford Ave ,Brooklyn,New York,11225,1274,1,5871,40.668489,-73.955849,9,35,323,3033161,Crown Heights South                                                        
+3002370001,3,Brooklyn Appellate Court,45 Monroe Pl ,Brooklyn,New York,11201,237,1,2419,40.695822,-73.992802,2,33,502,3001881,Brooklyn Heights-Cobble Hill                                               
+3001690017,3,Brooklyn Criminal Court,120 Schermerhorn St ,Brooklyn,New York,11201,169,17,104757,40.690074,-73.988923,2,33,43,3000534,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3001407503,3,DOF Facility,345 Adams St ,Brooklyn,New York,11201,140,7503,11943,40.6934,-73.988915,2,33,11,3392969,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3001407502,3,Brooklyn Supreme & Family Court,330 Jay St ,Brooklyn,New York,11201,140,7502,37811,40.694495,-73.987198,2,33,11,3347736,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3001390020,3,Brooklyn Supreme Court,360 Adams St ,Brooklyn,New York,11201,139,20,47357,40.694122,-73.988904,2,33,11,3000257,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3001390001,3,Brooklyn Borough Hall,209 Joralemon St ,Brooklyn,New York,11201,139,1,1809,40.692476,-73.990487,2,33,11,3000256,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+3000850006,3,OEM Building,165 Cadman Plaza East,Brooklyn,New York,11201,85,6,12260,40.698767,-73.98987,2,33,13,3000172,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill                           
+2048320009,2,Bronx Neighborhood Building,4101 White Plains Rd ,Bronx,New York,10466,4832,9,1716,40.89074,-73.858862,12,12,420,2063174,Williamsbridge-Olinville                                                   
+2029470018,2,Bronx Bergen Building,1932 Arthur Ave ,Bronx,New York,10457,2947,18,13866,40.845685,-73.893294,6,17,36901,2009911,East Tremont                                                               
+2024680001,2,Bronx County Courthouse,851 Grand Concourse ,Bronx,New York,10451,2468,1,15804,40.825999,-73.923131,4,8,63,2002869,West Concourse                                                             
+2024620039,2,Bronx Housing Court,1118 Grand Concourse ,Bronx,New York,10456,2462,39,9119,40.832232,-73.919655,4,16,18102,2101266,East Concourse-Concourse Village                                           
+2024440001,2,Hall of Justice,265 East 161st St  ,Bronx,New York,10451,2454,1,62113,40.825928,-73.919514,4,16,18302,2097114,East Concourse-Concourse Village                                           
+1017690045,1,Harlem Courthouse,170 East 121st St ,Manhattan,New York,10035,179,45,1265,40.801423,-73.938373,11,8,196,1054382,East Harlem North                                                          
+1010440022,1,Midtown Community Court,314 West 54th St ,Manhattan,New York,10019,1044,22,3086,40.765082,-73.984997,4,3,133,1025397,Clinton                                                                    
+1004230022,1,115 Chrystie,115 Chrystie Street,Manhattan,New York,10002,423,22,1974,40.718647,-73.993586,3,1,18,1005645,Chinatown                                                                  
+1001970017,1,Excelsior Building,137 Centre St ,Manhattan,New York,10013,197,17,5677,40.717157,-74.000653,1,1,31,1002358,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001710031,1,Manhattan Family Court,60 Lafayette St ,Manhattan,New York,10013,171,31,31366,40.71646,-74.002327,1,1,31,1001842,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001700006,1,Clocktower Building,346 Broadway ,Manhattan,New York,10013,170,6,26710,40.716696,-74.004163,1,1,31,1001835,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001690010,1,Manhattan Civil Court,111 Centre St ,Manhattan,New York,10013,169,10,27287,40.716317,-74.001277,1,1,31,1001833,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001680032,1,Health Building,125 Worth St ,Manhattan,New York,10013,168,32,33886,40.715428,-74.002673,1,1,31,1001831,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001670001,1,Manhattan Criminal Court,100 Centre Street ,Manhattan,New York,10013,167,1,126511,40.716084,-74.001425,1,1,29,1079000,Chinatown                                                                  
+1001660027,1,Louis J. Lefkowitz Building,80 Centre St ,Manhattan,New York,10013,166,27,39543,40.715447,-74.00189,1,1,29,1001830,Chinatown                                                                  
+1001600021,1,Manhattan Supreme Court,60 Centre St ,Manhattan,New York,10007,160,21,36789,40.714467,-74.002503,1,1,29,1085748,Chinatown                                                                  
+1001550001,1,Court Square Building,2 Lafayette St ,Manhattan,New York,10007,155,1,29227,40.713723,-74.003586,1,1,31,1001672,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001540023,1,City Planning Building,22 Reade St ,Manhattan,New York,10007,154,23,8951,40.714231,-74.004895,1,1,31,1078613,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001530024,1,Manhattan Surrogate's Court,31 Chambers St ,Manhattan,New York,10007,153,24,15059,40.713402,-74.004635,1,1,31,1001670,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001530018,1,Emigrant Savings Building,49-51 Chambers St ,Manhattan,New York,10007,153,18,19933,40.713767,-74.005429,1,1,31,1079216,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001530001,1,Sun Building,280 Broadway ,Manhattan,New York,10007,153,1,16423,40.714417,-74.006089,1,1,31,1079215,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001347501,1,Home Life Building,253 Broadway ,Manhattan,New York,10007,134,7501,19284,40.713265,-74.007063,1,1,21,1082757,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001220001,1,Tweed Courthouse (DOE Offices),52 Chambers St ,Manhattan,New York,10007,122,1,15308,40.713814,-74.00557,1,1,31,1079146,SoHo-TriBeCa-Civic Center-Little Italy                                     
+1001210001,1,Manhattan Municipal Building,1 Centre St ,Manhattan,New York,10007,121,1,92117,40.713001,-74.004181,1,1,29,1001394,Chinatown                                                                  
+1000940025,1,100 Gold St,100 Gold St ,Manhattan,New York,10038,94,25,64582,40.710353,-74.004007,1,1,1501,1001289,Battery Park City-Lower Manhattan                                          

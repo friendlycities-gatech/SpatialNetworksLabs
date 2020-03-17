@@ -1,0 +1,52 @@
+State,ID,CensusDivision
+Alaska,AK,Pacific
+Alabama,AL,East South Central
+Arkansas,AR,West South Central
+Arizona,AZ,Mountain
+California,CA,Pacific
+Colorado,CO,Mountain
+Connecticut,CT,New England
+District of Columbia,DC,South Atlantic
+Delaware,DE,South Atlantic
+Florida,FL,South Atlantic
+Georgia,GA,South Atlantic
+Hawaii,HI,Pacific
+Iowa,IA,West North Central
+Idaho,ID,Mountain
+Illinois,IL,East North Central
+Indiana,IN,East North Central
+Kansas,KS,West North Central
+Kentucky,KY,East South Central
+Louisiana,LA,West South Central
+Massachusetts,MA,New England
+Maryland,MD,South Atlantic
+Maine,ME,New England
+Michigan,MI,East North Central
+Minnesota,MN,West North Central
+Missouri,MO,West North Central
+Mississippi,MS,East South Central
+Montana,MT,Mountain
+North Carolina,NC,South Atlantic
+North Dakota,ND,West North Central
+Nebraska,NE,West North Central
+New Hampshire,NH,New England
+New Jersey,NJ,Middle Atlantic
+New Mexico,NM,Mountain
+Nevada,NV,Mountain
+New York,NY,Middle Atlantic
+Ohio,OH,East North Central
+Oklahoma,OK,West South Central
+Oregon,OR,Pacific
+Pennsylvania,PA,Middle Atlantic
+Rhode Island,RI,New England
+South Carolina,SC,South Atlantic
+South Dakota,SD,West North Central
+Tennessee,TN,East South Central
+Texas,TX,West South Central
+Utah,UT,Mountain
+Virginia,VA,South Atlantic
+Vermont,VT,New England
+Washington,WA,Pacific
+Wisconsin,WI,East North Central
+West Virginia,WV,South Atlantic
+Wyoming,WY,Mountain
