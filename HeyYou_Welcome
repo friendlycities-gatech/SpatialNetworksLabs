@@ -1,0 +1,11 @@
+Hello!
+
+SPATIAL NETWORK ANALYSIS is a cross-listed computer science/city planning class at Georgia Tech dedicated to exploring non-planar spatial networks and ‘social flows’ in geographic space.
+
+Here are some labs to guide you. They aren’t perfect! But they are very fun. Labs 6 and 7 were not given in class, they are extra. Lab 7 uses a planar network. Lab 0 is just a review of GIS skills and low level data cleaning/aggregating.
+
+The suggested software for completing these labs is ArcMap and Gephi. However, some people in the class use QGIS only, and others have done EVERYTHING in R! Great job to them!
+
+Have fun and please hit us up if you have any questions or comments.
+
+-Clio Andris (clio@gatech.edu), Friendly Cities Lab 
